@@ -1,0 +1,48 @@
+html body{
+    margin: 0;
+    padding: 0;
+    background-attachment:fixed;
+    background-image: url("../resource/img/1366back.jpg") ;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center center;
+}
+.login-input {
+    padding:0 1.5em 1.5em 1.5em;
+    background-color: rgba(255,255,255,0.3);
+    /*border-radius: 1em;*/
+}
+@media (max-width: 375px) {
+
+    /*登陆*/
+    .login {
+        margin: 30% auto 0 auto;
+    }
+
+    #login-info {
+        color: red;
+    }
+}
+
+@media (min-width: 768px) {
+    /*登陆*/
+
+    .login {
+        margin: 10% auto 0 auto;
+
+    }
+
+    #login-info {
+        color: red;
+    }
+}
+
+/* 中等屏幕（桌面显示器，大于等于 992px） */
+@media (min-width: 992px) {
+
+}
+
+/* 大屏幕（大桌面显示器，大于等于 1200px） */
+@media (min-width: 1200px) {
+
+}

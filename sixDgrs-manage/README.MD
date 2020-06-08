@@ -1,0 +1,15 @@
+--common  
+ （1）constant（公共常数）  
+ （2）js（公共js）  
+--css（框架CSS样式）  
+ （1）font-awesome(字体)  
+--frame-ui(引用框架)  
+ （1）bootstrat  
+--js(框架js)  
+--pages(详细页面)  
+ （功能）  
+    （1）HTML  
+    （2）js  
+    （3）css  
+--resource（引用资源）  
+ （1）img（图片）  
